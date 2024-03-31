@@ -1,0 +1,4 @@
+C:\Users\cm\Desktop\Project\Hospital System\obj\Debug\net8.0\Hospital System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cm\Desktop\Project\Hospital System\obj\Debug\net8.0\Hospital System.AssemblyInfoInputs.cache
+C:\Users\cm\Desktop\Project\Hospital System\obj\Debug\net8.0\Hospital System.AssemblyInfo.cs
+C:\Users\cm\Desktop\Project\Hospital System\obj\Debug\net8.0\Hospital System.csproj.CoreCompileInputs.cache
